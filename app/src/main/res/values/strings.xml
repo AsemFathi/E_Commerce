@@ -6,4 +6,8 @@
     <string name="forget_password">Forget Password?</string>
     <string name="don_t_worry_it_happens_please_enter_the_number_associated_with_your_account">Don\'t worry! it happens.please enter the number associated with your account.</string>
     <string name="Register">Register</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
